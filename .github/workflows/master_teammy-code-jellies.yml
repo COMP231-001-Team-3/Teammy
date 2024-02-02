@@ -63,4 +63,4 @@ jobs:
           app-name: 'teammy-code-jellies'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CBAE8EBD62D42FDA6AC7E40F53472CA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3598D03EE1249DB91D21CBFFA6126CF }}
